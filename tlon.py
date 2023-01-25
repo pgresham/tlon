@@ -22,7 +22,7 @@ if os.name == 'nt':
 else:
 	def clear():
 		os.system('clear')
-###Compatibility. You're welcome.
+
 
 ###The following function creates the wordlist from specified file fname
 def wordlist(fname):
