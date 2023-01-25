@@ -1,0 +1,13 @@
+0.1.00
+Initial build began sometime in July, 2021 and continued to 7 November 2021.
+This is the initial release and is immediately superceded by...
+
+0.1.01
+Changes to the wordlist including additions of words such as "ninja" to the exclusion list. Audiobook training session was used to verify changes.
+
+The Erase command (currently 'erase') was shown to have some delay as the previous block must be processed. 
+The production device will need to be equipped with a remote keyboard to immediately invoke KeyboardInterrupt (Ctrl+C)
+which is modified to clear the screen.
+
+0.1.02
+Additions to wordlist during field testing
